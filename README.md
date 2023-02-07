@@ -2,9 +2,9 @@
 <h1>Hello world👋</h1>
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="display: flex; flex-direction: column">
   <a href="https://www.linkedin.com/in/mireya-chaparro/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png" alt="LinkedIn Badge" width="150"/>
   </a>
  </div>
  
@@ -26,5 +26,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
